@@ -7,12 +7,18 @@
 #     print(chr(i))
     
 
-a="hba"
-b="hba"
+# a="hba"
+# b="hba"
 # a and b has same memory id
-print(id(a))
-print(id(b))
+# print(id(a))
+# print(id(b))
 
 
 #-(n+1) bitwise operator
 # ex: n=6 then (~n)=-7
+
+# name="adhi"
+# print(dir(type(name)))#to get all the methods of str
+
+li=[]
+print(dir(type(li)))
